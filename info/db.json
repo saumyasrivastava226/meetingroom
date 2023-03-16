@@ -1,0 +1,111 @@
+[
+{
+"id": "ec00574f-4d42-4bb8-acec-e0e380045500",
+"name": "MR-1",
+"capacity": 5,
+"photoUrl": "assets/images/image 1.png",
+"locationId": "e8acf8d9-9422-4346-9a99-533991ac46af",
+"createdAt": "2023-02-15T20:08:50.445Z",
+"updatedAt": "2023-02-24T13:28:18.201Z",
+"customProperties": null,
+"clientId": "C0000001",
+"Meetings": [
+{
+"id": "fb0ea228-d759-4a1f-9dd6-33050ffd2315",
+"name": "string",
+
+"roomId": "ec00574f-4d42-4bb8-acec-e0e380045500",
+"user": "Test User",
+"startTime": "2023-03-13T16:00:00.000Z",
+"endTime": "2023-03-13T16:30:00.000Z",
+"meetUrl": null,
+"createdAt": "2023-03-13T16:10:03.878Z",
+"updatedAt": "2023-03-13T16:10:03.878Z",
+"customProperties": null,
+"deletedOrCancelled": false,
+"clientId": "C0000001"
+},
+{
+"id": "2f954b76-8d9c-4060-99f2-e9467e3660f7",
+"name": "string",
+"roomId": "ec00574f-4d42-4bb8-acec-e0e380045500",
+"user": "Test User",
+"startTime": "2023-03-13T16:30:00.000Z",
+"endTime": "2023-03-13T16:45:00.000Z",
+"meetUrl": null,
+"createdAt": "2023-03-13T16:10:21.761Z",
+"updatedAt": "2023-03-13T16:10:21.761Z",
+"customProperties": null,
+"deletedOrCancelled": false,
+"clientId": "C0000001"
+},
+{
+"id": "9c9cd484-f640-4b53-bd23-8a0c361a7da3",
+"name": "Some Meeting",
+"roomId": "ec00574f-4d42-4bb8-acec-e0e380045500",
+"user": "Test User",
+"startTime": "2023-03-13T16:45:00.000Z",
+"endTime": "2023-03-13T17:00:00.000Z",
+"meetUrl": null,
+"createdAt": "2023-03-13T16:10:46.225Z",
+"updatedAt": "2023-03-13T16:10:46.225Z",
+"customProperties": null,
+"deletedOrCancelled": false,
+"clientId": "C0000001"
+},
+{
+"id": "54326f6c-1912-4c1f-bcda-c4a0393a6d7f",
+"name": "Some Another Meeting",
+"roomId": "ec00574f-4d42-4bb8-acec-e0e380045500",
+"user": "Test User",
+"startTime": "2023-03-13T18:30:00.000Z",
+"endTime": "2023-03-13T19:00:00.000Z",
+"meetUrl": null,
+"createdAt": "2023-03-13T16:11:09.780Z",
+"updatedAt": "2023-03-13T16:11:09.780Z",
+"customProperties": null,
+"deletedOrCancelled": false,
+"clientId": "C0000001"
+},
+{
+"id": "d89e63f1-cfb2-496d-b122-b7f43622dec2",
+"name": "Some Another Meeting",
+"roomId": "ec00574f-4d42-4bb8-acec-e0e380045500",
+"user": "Test User",
+"startTime": "2023-03-13T19:30:00.000Z",
+"endTime": "2023-03-13T20:00:00.000Z",
+"meetUrl": null,
+"createdAt": "2023-03-13T16:11:26.719Z",
+"updatedAt": "2023-03-13T16:11:26.719Z",
+"customProperties": null,
+
+"deletedOrCancelled": false,
+"clientId": "C0000001"
+}
+]
+},
+{
+"id": "3a9383a3-e0d0-4b66-aa00-244cfea29acf",
+"name": "MR-2",
+"capacity": 15,
+"photoUrl": "assets/images/image 3.png",
+"locationId": "e8acf8d9-9422-4346-9a99-533991ac46af",
+"createdAt": "2023-02-15T20:09:01.014Z",
+"updatedAt": "2023-02-24T13:29:37.592Z",
+"customProperties": null,
+"clientId": "C0000001",
+"Meetings": []
+},
+{
+"id": "16c53f5a-ba9b-4105-8285-83709bba288e",
+"name": "MR-3",
+"capacity": 6,
+"photoUrl": "assets/images/image 5.png",
+"locationId": "e8acf8d9-9422-4346-9a99-533991ac46af",
+"createdAt": "2023-02-21T21:15:49.119Z",
+"updatedAt": "2023-02-24T13:29:46.288Z",
+"customProperties": null,
+"clientId": "C0000001",
+"Meetings": []
+}
+]
